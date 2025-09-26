@@ -1,0 +1,74 @@
+
+  .input {  
+     
+     width: 250px;  
+     padding: 12px 20px;   
+     margin: 8px 0;   
+     display: inline-block;   
+     border: 1px solid #dfdcdc;   
+     border-radius: 4px;   
+     box-sizing: border-box; 
+     border-radius: 10px;
+} 
+
+fieldset{
+  border: 2px solid black;
+  width: 400px;
+  height: 300px;
+  border-radius: 20px;
+  margin-left: 500px;
+  margin-top: 30px;
+  background-color: (pink ,0.1);
+}
+
+.label-1{
+  margin: 10px;
+  
+}
+
+.label-2{
+  margin: 10px;
+  
+}
+
+.label-2{
+  margin: 10px;
+  
+}
+
+.input[type="text"]{
+
+  margin-left: 40px;
+
+} 
+
+.input[type="email"]{
+
+  margin-left: 40px;
+
+}
+
+.input[type="password"]{
+
+  margin-left: 40px;
+
+}
+
+.btn[type="submit"]{
+  width: 200px;
+  height: 30px;
+  margin-left: 100px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+
+.form h1{
+  margin-left: 500px;
+  margin-top: 50px;
+}
+
+
+.messages{
+  margin-left: -90px;
+}
+ 
